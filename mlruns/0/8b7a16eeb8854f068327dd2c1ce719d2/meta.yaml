@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8b7a16eeb8854f068327dd2c1ce719d2/artifacts
+end_time: 1733646814807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b7a16eeb8854f068327dd2c1ce719d2
+run_name: capricious-skink-268
+run_uuid: 8b7a16eeb8854f068327dd2c1ce719d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733646814794
+status: 4
+tags: []
+user_id: root
